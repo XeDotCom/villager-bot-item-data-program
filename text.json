@@ -44,6 +44,11 @@
           "found": "Mining, Trading.",
           "value": 768
         },
+	"efficiency" : {
+	  "name": "Efficiency I Book", 
+	  "desc": "Enchantment. Decreases mining cooldown by 1s.",
+	  "found": "Mining, Trading.",
+	  "value" : 512
         "haste-i": {
           "name": "Haste I Potion",
           "desc": "Potion buff. Decreases mining cooldown by 0.5s.",
