@@ -1,45 +1,136 @@
-Salmon
-Haste I Potion
-Diamond Pickaxe
-Looting II Book
-Emerald Fish
-Slime Trophy
-Gold Pickaxe
-Lure I Book
-Tropical Fish
-Rich Person Trophy
-Rusty Fishing Hook
-Diamond  Block
-Fishing Rod
-Wood Sword
+Tools:
+
 Wood Pickaxe
-Sharpness I Book
-Fortune II Book
-Beaker Of Slime
-Rainbow Trout
-Honey Jar
-Slime Ball
-Gold Fish
-Vault Potion
-Present
-Netherite Scrap
-Netherite Pickaxe
-Looting I Book
-Netherite Sword
-Fortune I Book
-Cod
-Diamond Sword
-Efficiency I
-Fortune III Book
-Pufferfish
-Bane Of Pillagers Amulet
-Seaweed
 Stone Pickaxe
-Iron Sword
-Sharpness II Book
-Glass Beaker
-Jar Of Bees
-Barrel
 Iron Pickaxe
-Heart Of The Sea
-Haste II Potion
+Gold Pickaxe
+Diamond Pickaxe
+Netherite Pickaxe
+
+Wood Sword
+Stone Sword
+Iron Sword
+Gold Sword
+Diamond Sword
+Netherite Sword
+
+Fishing Rod
+
+Magic:
+Looting I Book
+Looting II Book
+Fortune I Book
+Fortune II Book
+Fortune III Book
+Sharpness I Book
+Sharpness II Book
+Efficiency I Book
+Lure I Book
+
+Fish:
+Cod
+Salmon
+Tropical Fish
+Rainbow Trout
+Pufferfish
+Gold fish
+Emerald fish
+
+Other:
+Slime Trophy
+Fish Trophy
+Glass beaker
+Beaker Of Slime
+Bug Hunter Badge
+Bane Of Pillagers Amulet
+Rich Person Trophy
+
+Collectibles:
+Green Dotted Easter Egg
+Thingy-mabobber
+Flower Bouquet
+Gift Bag
+All-in-one Hitachi Vibrating Dildo (Pink)
+Red Flavored Lolipop
+Sunken Easter Egg
+Yellow
+Heart Shaped Chocolates
+Santa Hat
+bruhhhhh
+Turkey Feather
+Drip Of Turkey Grease
+Box Of Chocolates
+2 Year Birthday Cake Slice
+Luck Of The Sea Book
+Whole Ass Turkey
+BLM Flag
+Yellow Easter Egg
+Pack Of Jolly Ranchers
+XL KitKat Bar
+yes
+500 Tons Of Candy Corn
+YDswinger
+Abrams M1 Tank
+Red Easter Egg
+Surgical Mask
+Bottle Of Menorah Oil
+Mask
+Tesla Space Roadster
+Purple Flavored Lolipop
+Toilet Paper Roll (Emerald Patterned)
+Party Hat
+Tiny Hand Sanitizer Bottle
+Green Easter Egg
+Moodys Turkey Leg
+Orange Dotted Easter Egg
+test item
+Party Popper
+Leftover Party Confetti
+Empty Candy Wrapper
+Dirt Block
+Menorah
+Gangster Villager
+Rainbow Sparkles Easter Egg
+Red Dotted Easter Egg
+heh
+Blue Striped Easter Egg
+Whole Fucking Christmas Tree
+Christmas Tree
+Red Striped Easter Egg
+Blue Dotted Easter Egg
+Kevin The Minion
+Tub Of Hand Sanitizer
+Purple Striped Easter Egg
+Gingerbread Man
+Petus's Best Staff Person
+Pink Flavored Lolipop
+Yellow Striped Easter Egg
+Soulmates T-shirt
+A Literal Rainbow
+A Kiss
+Rainbow Easter Egg
+Bunny Ears
+Orange Easter Egg
+Golden Easter Egg
+4" pink dildo
+Four Leaf Clover
+Whole Fucking Menorah
+Green Striped Easter Egg
+Purple Dotted Easter Egg
+Bag Of M&Ms
+Hersheys Bar
+Blue Easter Egg
+majestic birthday cake
+Blue Flavored Lolipop
+SpOoKy Jack O Lantern
+Purple Easter Egg
+Orange Flavored Lolipop
+Pillager-Proof Hazmat Suit
+Rona Vaccine
+Pot Of Gold
+Bag Of Skittles
+Orange Striped Easter Egg
+Green Flavored Lolipop
+Forever Alone Trophy
+Dotted Easter Egg
+Evil Jelly Beans
