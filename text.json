@@ -4,75 +4,77 @@
       "default_findables": {
         "fortune-i": {
           "name": "Fortune I Book",
-          "desc": "Enchantment. Increases your emerald yield by upto 2. Applied automatically.",
-          "found": "Mining, Shop, Trading.",
+          "desc": "Enchantment. Increases your emerald yield. Applied automatically.",
+          "type": "magic",
           "value": 24
         },
         "fortune-ii": {
           "name": "Fortune II Book",
-          "desc": "Enchantment. Increases your emerald yield by upto 3. Applied automatically.",
-          "found": "Mining, Trading.",
+          "desc": "Enchantment. Increases your emerald yield. Applied automatically.",
+          "type": "magic",
           "value": 128
         },
         "fortune-iii": {
           "name": "Fortune III Book",
-          "desc": "Enchantment. Increases your emerald yield by upto 4. Applied automatically.",
-          "found": "Mining, Trading.",
+          "desc": "Enchantment. Increases your emerald yield. Applied automatically.",
+          "type": "magic",
           "value": 768
         },
         "looting-i": {
           "name": "Looting I Book",
-          "desc": "Enchantment. Increases mob loot by 1.25x. Applied automatically.",
-          "found": "Mining, Trading.",
+          "desc": "Enchantment. Increases mob loot. Applied automatically.",
+          "type": "magic",
           "value": 128
         },
         "looting-ii": {
           "name": "looting II Book",
-          "desc": "Enchantment. Increases mob loot by 1.75x. Applied automatically.",
-          "found": "Mining, Trading.",
+          "desc": "Enchantment. Increases mob loot. Applied automatically.",
+          "type": "magic",
           "value": 768
         },
         "sharpness-i": {
           "name": "Sharpness I Book",
-          "desc": "Enchantment. Increases damage against mobs by 1.25x. Applied automatically.Mi",
-          "found": "Mining, Shop, Trading.",
+          "desc": "Enchantment. Increases damage against mobs. Applied automatically.",
+          "type": "magic",
           "value": 32
         },
         "sharpness-ii": {
           "name": "Sharpness II Book",
-          "desc": "Enchantment. Increases damage against mobs by 1.5x. Applied automatically.Mi",
-          "found": "Mining, Trading.",
+          "desc": "Enchantment. Increases damage against mobs. Applied automatically.",
+          "type": "magic",
           "value": 768
         },
-	"efficiency" : {
-	  "name": "Efficiency I Book", 
-	  "desc": "Enchantment. Decreases mining cooldown by 1s.",
-	  "found": "Mining, Trading.",
-	  "value" : 512
+	      "efficiency" : {
+	        "name": "Efficiency I Book", 
+	        "desc": "Enchantment. Decreases mining cooldown. Applied automatically.",
+	        "type": "magic",
+	        "value" : 512
+        },
         "haste-i": {
           "name": "Haste I Potion",
-          "desc": "Potion buff. Decreases mining cooldown by 0.5s.",
-          "found": "Mining, Shop, Trading.",
+          "desc": "Potion buff. Decreases mining cooldown.",
+          "type": "magic",
           "value": 32
         },
         "haste-ii": {
           "name": "Haste II Potion",
-          "desc": "Potion buff. Decreases mining cooldown by 1s.",
-          "found": "Mining, Trading.",
+          "desc": "Potion buff. Decreases mining cooldown.",
+          "type": "magic",
           "value": 128
         },
         "mooderald": {
           "name": "Mooderald",
           "desc": "Introduced as a meme currecncy as tribute to one of the support server admins, now its the currency for the auction house. Untradeable.",
-          "found": "Mining, Fishing.",
+          "type": "none",
           "value": 768
         },
         "amulet": {
           "name": "Bane Of Pillagers Amulet",
           "desc": "The rarest item in the game, it gives you a variety of buffs including +1 emerald yield and decreased chance of being pillaged. Untradeable.",
-          "found": "Mining.",
+          "type": "magic",
           "value": 4096
         }
       }
     }
   }
+}
